@@ -14,6 +14,7 @@ public class Program {
 		x = new Triangle();
 		y = new Triangle();
 		
+		System.out.println("Bom dia");
 		System.out.println("Entre com as medidas do triangulo A:");
 		x.a = sc.nextDouble();
 		x.b = sc.nextDouble();
